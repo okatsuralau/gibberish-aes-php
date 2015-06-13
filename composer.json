@@ -1,0 +1,22 @@
+{
+    "name": "ivantcholakov/gibberish-aes-php",
+    "type": "library",
+    "description": "A PHP port of Gibberish AES javascript encryption library, https://github.com/mdp/gibberish-aes",
+    "keywords": ["aes", "encryption", "library", "javascript", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Tcholakov",
+            "homepage": "https://github.com/ivantcholakov/gibberish-aes-php"
+        }
+    ],
+    "extra" : {
+        "branch-alias" : {
+            "dev-master" : "master"
+        },
+        "installer-name" : "GibberishAES"
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
